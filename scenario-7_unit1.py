@@ -51,31 +51,3 @@ for i in range(n):
     inventory.add_product(product)
 
 inventory.display_products()
-
-
-
-# ---------------------- Sample Output ----------------------
-
-# Enter number of products: 2
-#
-# Enter details of Product 1
-# Product ID: P101
-# Product Name: Laptop
-# Price: 55000
-#
-# Enter details of Product 2
-# Product ID: P102
-# Product Name: Mouse
-# Price: 500
-#
-# ----- Product Details -----
-# Product ID   : P101
-# Product Name : Laptop
-# Price        : 55000.0
-# Category     : Expensive
-# ------------------------------
-# Product ID   : P102
-# Product Name : Mouse
-# Price        : 500.0
-# Category     : Affordable
-# ------------------------------
