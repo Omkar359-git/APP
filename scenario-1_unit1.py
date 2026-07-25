@@ -56,3 +56,29 @@ for i in range(n):
     college.add_student(student)
 
 college.display_students()
+
+# ---------------------- Sample Output ----------------------
+
+# Enter number of students: 2
+
+# Enter details of Student 1
+# Roll Number: 101
+# Name: Ganesh
+# Marks: 92
+
+# Enter details of Student 2
+# Roll Number: 102
+# Name: Rahul
+# Marks: 75
+
+# ----- Student Details -----
+# Roll Number : 101
+# Name        : Ganesh
+# Marks       : 92.0
+# Grade       : A
+# ------------------------------
+# Roll Number : 102
+# Name        : Rahul
+# Marks       : 75.0
+# Grade       : B
+# ------------------------------
